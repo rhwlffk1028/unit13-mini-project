@@ -1,0 +1,28 @@
+{
+  "name": "unit13-mini-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhwlffk1028/unit13-mini-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhwlffk1028/unit13-mini-project/issues"
+  },
+  "homepage": "https://github.com/rhwlffk1028/unit13-mini-project#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "routes": "^2.1.0",
+    "sequelize": "^6.6.5"
+  }
+}
